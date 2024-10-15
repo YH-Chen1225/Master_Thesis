@@ -18,5 +18,12 @@ Name: Yu-Hsin Chen
 - **Neural_Net_Extension_Result**: It is the Monte-Carlo simulation process from data generated in **Neural_Nets_Extension_Result**
 - **Real_Case_RDD**: In this file, RDD method on GRF platform was applied to analyze the real data from the paper "Does Head Start Improve Children's Life Chances? Evidence from a Regression Discontinuity Design" and comparison with the result from the paper"Cattaneo, Titiunik and Vazquez-Bare (2017): Comparing Inference Approaches for RD Designs: A Reexamination of the Effect of Head Start on Child Mortality"
 - **Real_Case_Extension**: In this file, RDD method on GRF platform was applied to analyze the real data from the paper "The effectiveness of right heart catheterization in the initial care of critically ill patients." and the result is compared with the paper  McConnell, K. J. and Lindner, S. (2019). Estimating treatment effects with machine learning Health services research, 54(6):1273–1282"
-- 
+
+## Main Contribution
+- Develop rigorous mathematics assumptions for RDD applying on the GRF platform and prove the normality property for RDD on GRF
+- Bridging the gap between infinite and finite sample size by applying the typical Monte-Carlo Simulation on random 1000 points and on different certain quantile point
+- Further applying the state-of-the-art method, WGAN, for Monte-Carlo Simulation. The simulation results reveal the potential challenges of RDD on GRF may face in the real-world analysis
+- Applying RDD on GRF to analyze the real-world dataset with different parameters and compare them with the result from the published research to further discussed the advantage ,disadvantage and potential way to futher develop RDD on GRF in the future.
+
+
 
