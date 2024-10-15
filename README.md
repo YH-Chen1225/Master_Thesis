@@ -5,7 +5,7 @@
 ![image](https://img.shields.io/badge/Language-R4.1.3-blue?style=flat)
 
 ## Auther
-Name: Yu-Hsin Chen
+Name: Yu-Hsin Chen\\
 Email: ua89622u@gmail.com
 
 ## Brief File Description
