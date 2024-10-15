@@ -4,6 +4,10 @@
 ![image](https://img.shields.io/badge/Language-Python3.11.7-lightgreen?style=flat)
 ![image](https://img.shields.io/badge/Language-R4.1.3-blue?style=flat)
 
+## Auther
+Name: Yu-Hsin Chen
+Email: ua89622u@gmail.com
+
 ## Brief File Description
 - **DGP_RDD**: It is the main data-generating process for the Monte-Carlo Simulation section
 - **First_Stage_RDD_General**: It is the simulation drawing 1000 points for testing and 1000 points for training from DGP. The test points are fixed among 500 times iterations, and training points are changing.
@@ -12,3 +16,7 @@
 - **Neural_Nets_Extension_Result**:It is the same synthetic data generating method as **Neural_Net_RDD**, but the generated data was from Connors AF Jr, Speroff T, Dawson NV, Thomas C, Harrell FE Jr, Wagner D, Desbiens N, Goldman L, Wu AW, Califf RM, Fulkerson WJ Jr, Vidaillet H, Broste S, Bellamy P, Lynn J, Knaus WA. The effectiveness of right heart catheterization in the initial care of critically ill patients. SUPPORT Investigators. JAMA. 1996 Sep 18;276(11):889-97. doi: 10.1001/jama.276.11.889. PMID: 8782638. Similarly, 500,000 data were generated and both dataset can be found in following link[![image](https://img.shields.io/badge/Link-Generated%20Data-light%20%20yellow)](https://drive.google.com/drive/folders/1zcn1lUuuLDl4U_tCqlTtk2j2sEE4hMxW?usp=sharing)
 - **Neural_Net_RDD_Result**: It is the Monte-Carlo simulation process from data generated in **Neural_Net_RDD**
 - **Neural_Net_Extension_Result**: It is the Monte-Carlo simulation process from data generated in **Neural_Nets_Extension_Result**
+- **Real_Case_RDD**: In this file, RDD method on GRF platform was applied to analyze the real data from the paper "Does Head Start Improve Children's Life Chances? Evidence from a Regression Discontinuity Design" and comparison with the result from the paper"Cattaneo, Titiunik and Vazquez-Bare (2017): Comparing Inference Approaches for RD Designs: A Reexamination of the Effect of Head Start on Child Mortality"
+- **Real_Case_Extension**: In this file, RDD method on GRF platform was applied to analyze the real data from the paper "The effectiveness of right heart catheterization in the initial care of critically ill patients." and the result is compared with the paper  McConnell, K. J. and Lindner, S. (2019). Estimating treatment effects with machine learning Health services research, 54(6):1273–1282"
+- 
+
