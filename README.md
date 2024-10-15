@@ -25,5 +25,5 @@ Name: Yu-Hsin Chen
 - Further applying the state-of-the-art method, WGAN, for Monte-Carlo Simulation. The simulation results reveal the potential challenges of RDD on GRF may face in the real-world analysis
 - Applying RDD on GRF to analyze the real-world dataset with different parameters and compare them with the result from the published research to further discussed the advantage ,disadvantage and potential way to futher develop RDD on GRF in the future.
 
-
+The full version please check [Applying Generalized Random Forest to Analyzing the Heterogeneous Effects in Regression Discontinuity Design.pdf](https://github.com/YH-Chen1225/Master_Thesis/blob/main/Thesis_Merged.pdf)
 
