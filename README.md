@@ -4,7 +4,7 @@
 ![image](https://img.shields.io/badge/Language-Python3.11.7-lightgreen?style=flat)
 ![image](https://img.shields.io/badge/Language-R4.1.3-blue?style=flat)
 
-## Auther
+## Author
 Name: Yu-Hsin Chen
 <br> Email: ua89622u@gmail.com
 
